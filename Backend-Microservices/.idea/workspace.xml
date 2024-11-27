@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4328789b-67f2-40ae-a62f-5183c75a6e64" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/evaluacion-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/evaluacion-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/seguimiento-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/seguimiento-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/simulacionCredito-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/simulacionCredito-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/solicitud-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/solicitud-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/usuario-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/usuario-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +54,9 @@
     "Spring Boot.SimulacionCreditoServiceApplication.executor": "Run",
     "Spring Boot.SolicitudServiceApplication.executor": "Run",
     "Spring Boot.UsuarioServiceApplication.executor": "Run",
-    "git-widget-placeholder": "7c71e4e5",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/34687/Documents/Universidad/Master/USACH/Prueba_Tingeso/Evaluacion_2/Backend-Microservices",
+    "last_opened_file_path": "C:/Users/34687/Documents/Universidad/Master/USACH/Prueba_Tingeso/Evauacion2_local/Backend-Microservices",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -190,6 +185,7 @@
       <updated>1732043012463</updated>
       <workItem from="1732043013691" duration="51019000" />
       <workItem from="1732745296910" duration="1024000" />
+      <workItem from="1732747100631" duration="34000" />
     </task>
     <servers />
   </component>
